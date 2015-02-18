@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/html5reset.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/col.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/responsivegridsystem.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/2cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/3cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/4cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/5cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/6cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/7cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/8cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/9cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/10cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/11cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>styles/responsivegridsystem/css/12cols.css" media="all">
+
+	<link rel="stylesheet" type="text/css" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="<?php echo base_url()?>styles/responsivegridsystem/css/1024.css" >
+	<link rel="stylesheet" type="text/css" media="only screen and (max-width: 768px) and (min-width: 481px)" href="<?php echo base_url()?>styles/responsivegridsystem/css/768.css" >
+	<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" href="<?php echo base_url()?>styles/responsivegridsystem/css/480.css" >
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ci-responsivegrid</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!--<scope>source.html5</scope>-->
+</snippet>
